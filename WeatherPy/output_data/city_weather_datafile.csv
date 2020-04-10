@@ -1,0 +1,556 @@
+,City,Country,Latitude,Longitude,Max Temp.,Humidity,Wind Speed,Cloudiness,Date,Hemisphere
+0,Hilo,US,19.73,-155.09,78.8,65,4.7,90,1586395577,Northern Hemisphere
+1,Dukat,RU,62.55,155.55,19.38,88,5.59,86,1586395728,Northern Hemisphere
+2,Saint-Pierre,RE,-21.34,55.48,77.0,73,8.05,0,1586395729,Southern Hemisphere
+3,Albany,US,42.6,-73.97,53.6,54,14.99,75,1586395731,Northern Hemisphere
+4,Rikitea,PF,-23.12,-134.97,76.6,80,9.86,90,1586395732,Southern Hemisphere
+5,Bluff,NZ,-46.6,168.33,53.01,90,14.0,100,1586395733,Southern Hemisphere
+6,Hong Kong,HK,22.29,114.16,73.99,46,8.05,66,1586395734,Northern Hemisphere
+7,Norman Wells,CA,65.28,-126.83,30.2,50,16.11,90,1586395735,Northern Hemisphere
+8,Acapulco de Juárez,MX,16.86,-99.89,80.6,83,6.93,20,1586395736,Northern Hemisphere
+9,Camacha,PT,33.08,-16.33,68.0,93,11.41,75,1586395737,Northern Hemisphere
+10,Airai,TL,-8.93,125.41,67.35,61,0.45,97,1586395738,Southern Hemisphere
+11,Fairbanks,US,64.84,-147.72,32.0,46,6.93,1,1586395526,Northern Hemisphere
+12,Puerto Ayora,EC,-0.74,-90.35,82.4,78,11.41,20,1586395740,Southern Hemisphere
+13,Jalingo,NG,8.88,11.37,86.56,52,5.5,92,1586395742,Northern Hemisphere
+14,Lagoa,PT,39.05,-27.98,61.0,82,12.97,0,1586395743,Northern Hemisphere
+15,Mahon,ES,39.89,4.27,50.0,81,2.68,0,1586395745,Northern Hemisphere
+16,Vostok,RU,46.49,135.88,31.91,61,2.93,97,1586395746,Northern Hemisphere
+17,Guskhara,IN,23.5,87.75,77.45,31,4.5,0,1586395748,Northern Hemisphere
+18,Kletskaya,RU,49.31,43.06,44.01,38,14.7,86,1586395749,Northern Hemisphere
+19,Cayenne,GF,4.93,-52.33,82.4,74,8.05,90,1586395750,Northern Hemisphere
+20,Bilibino,RU,68.05,166.44,12.02,88,5.08,98,1586395751,Northern Hemisphere
+21,Aden,YE,12.78,45.04,80.44,66,16.04,0,1586395497,Northern Hemisphere
+22,Tuktoyaktuk,CA,69.45,-133.04,10.4,78,11.41,20,1586395753,Northern Hemisphere
+23,Busselton,AU,-33.65,115.33,73.99,65,4.0,27,1586395754,Southern Hemisphere
+24,Labytnangi,RU,66.66,66.42,9.91,90,16.13,100,1586395756,Northern Hemisphere
+25,George Town,MY,5.41,100.34,84.2,88,3.36,20,1586395757,Northern Hemisphere
+26,Bengkulu,ID,-3.8,102.27,78.3,78,5.03,89,1586395645,Southern Hemisphere
+27,Jamestown,US,42.1,-79.24,51.01,75,3.36,1,1586395589,Northern Hemisphere
+28,Punta Arenas,CL,-53.15,-70.92,55.4,62,9.17,20,1586395702,Southern Hemisphere
+29,Tuatapere,NZ,-46.13,167.68,53.01,90,14.0,100,1586395762,Southern Hemisphere
+30,Saint George,US,37.1,-113.58,55.4,76,9.17,90,1586395763,Northern Hemisphere
+31,Copiapó,CL,-27.37,-70.33,64.4,72,1.12,0,1586395764,Southern Hemisphere
+32,Atuona,PF,-9.8,-139.03,82.67,79,13.53,11,1586395766,Southern Hemisphere
+33,Ballina,AU,-28.87,153.57,77.0,69,14.99,90,1586395767,Southern Hemisphere
+34,Umm Kaddadah,SD,13.6,26.69,82.51,13,18.63,12,1586395504,Northern Hemisphere
+35,Seoul,KR,37.57,126.98,51.8,39,8.75,1,1586395536,Northern Hemisphere
+36,Ushuaia,AR,-54.8,-68.3,68.0,28,23.04,6,1586395771,Southern Hemisphere
+37,Carnarvon,AU,-24.87,113.63,82.4,48,9.17,70,1586395772,Southern Hemisphere
+38,Nome,US,64.5,-165.41,10.4,85,8.05,75,1586395773,Northern Hemisphere
+39,Vaini,TO,-21.2,-175.2,80.6,88,23.04,75,1586395774,Southern Hemisphere
+40,Boquira,BR,-12.82,-42.73,73.69,72,1.41,87,1586395775,Southern Hemisphere
+41,Mossamedes,AO,-15.2,12.15,75.49,51,8.03,0,1586395776,Southern Hemisphere
+42,Tumbagaan,PH,5.37,120.31,81.77,68,9.98,32,1586395777,Northern Hemisphere
+43,Tucupita,VE,9.06,-62.05,80.26,63,7.56,75,1586395778,Northern Hemisphere
+44,Yellowknife,CA,62.46,-114.35,26.6,38,6.93,40,1586395667,Northern Hemisphere
+45,Cabo San Lucas,MX,22.89,-109.91,80.6,64,27.51,90,1586395780,Northern Hemisphere
+46,Port Alfred,ZA,-33.59,26.89,63.32,70,17.09,83,1586395781,Southern Hemisphere
+47,Saint Paul Harbor,US,57.79,-152.41,35.6,55,24.16,1,1586395782,Northern Hemisphere
+48,Upernavik,GL,72.79,-56.15,11.62,84,4.38,0,1586395783,Northern Hemisphere
+49,Talnakh,RU,69.49,88.4,26.6,79,24.61,66,1586395785,Northern Hemisphere
+50,Adrar,MR,20.5,-10.07,79.92,14,9.55,0,1586395786,Northern Hemisphere
+51,Khandyga,RU,62.67,135.6,30.11,97,2.77,100,1586395787,Northern Hemisphere
+52,Sitka,US,57.05,-135.33,41.0,77,12.75,90,1586395788,Northern Hemisphere
+53,Hobart,AU,-42.88,147.33,61.0,62,9.17,5,1586395626,Southern Hemisphere
+54,Bulalacao,PH,12.33,121.34,82.06,72,8.63,54,1586395790,Northern Hemisphere
+55,Torbay,CA,47.67,-52.73,28.0,73,13.87,20,1586395791,Northern Hemisphere
+56,Valentín Gómez Farías,MX,28.22,-106.58,77.0,25,8.01,80,1586395589,Northern Hemisphere
+57,Ōfunato,JP,39.07,141.72,46.4,59,5.82,75,1586395793,Northern Hemisphere
+58,Porto-Novo,BJ,6.5,2.6,84.2,79,11.41,40,1586395794,Northern Hemisphere
+59,Oussouye,SN,12.48,-16.55,77.0,88,4.7,0,1586395795,Northern Hemisphere
+60,Acajutla,SV,13.59,-89.83,79.0,82,1.99,5,1586395775,Northern Hemisphere
+61,Sørland,NO,67.67,12.69,36.16,85,17.13,33,1586395797,Northern Hemisphere
+62,Baruun-Urt,MN,46.68,113.28,30.06,52,4.18,23,1586395798,Northern Hemisphere
+63,Dikson,RU,73.51,80.55,32.32,96,25.55,100,1586395799,Northern Hemisphere
+64,Cape Town,ZA,-33.93,18.42,57.99,81,3.36,2,1586395585,Southern Hemisphere
+65,Kapaa,US,22.08,-159.32,78.8,74,11.41,75,1586395685,Northern Hemisphere
+66,Padang,ID,-0.95,100.35,84.58,62,1.57,88,1586395803,Southern Hemisphere
+67,Anadyr,RU,64.75,177.48,10.4,78,4.47,20,1586395804,Northern Hemisphere
+68,Sibolga,ID,1.74,98.78,77.25,79,3.31,98,1586395653,Northern Hemisphere
+69,Itaituba,BR,-4.28,-55.98,73.38,94,0.4,85,1586395806,Southern Hemisphere
+70,Shubarshi,KZ,48.59,57.19,37.44,70,16.17,100,1586395807,Northern Hemisphere
+71,Faanui,PF,-16.48,-151.75,83.01,76,12.41,99,1586395808,Southern Hemisphere
+72,Lebu,CL,-37.62,-73.65,52.32,89,3.56,18,1586395810,Southern Hemisphere
+73,Fare,PF,-16.7,-151.02,84.24,77,13.02,93,1586395811,Southern Hemisphere
+74,Dicabisagan,PH,17.08,122.42,81.95,70,6.08,68,1586395812,Northern Hemisphere
+75,East London,ZA,-33.02,27.91,64.49,79,14.61,98,1586395813,Southern Hemisphere
+76,Saint-Philippe,RE,-21.36,55.77,77.0,73,8.05,2,1586395814,Southern Hemisphere
+77,Benguela,AO,-12.58,13.41,76.23,82,2.48,0,1586395815,Southern Hemisphere
+78,Kaitangata,NZ,-46.28,169.85,60.01,60,3.0,100,1586395816,Southern Hemisphere
+79,Kantunilkín,MX,21.09,-87.45,80.6,78,8.05,5,1586395817,Northern Hemisphere
+80,Fes,MA,34.04,-5.0,60.8,93,6.93,40,1586395818,Northern Hemisphere
+81,Chupa,RU,66.27,33.05,30.94,95,10.22,78,1586395819,Northern Hemisphere
+82,Zhigansk,RU,66.77,123.37,32.94,95,12.82,100,1586395821,Northern Hemisphere
+83,Serebryanyy Bor,RU,56.8,124.8,32.4,68,2.13,0,1586395822,Northern Hemisphere
+84,Leningradskiy,RU,69.38,178.42,9.73,91,10.4,100,1586395823,Northern Hemisphere
+85,Mataura,NZ,-46.19,168.86,53.01,90,17.0,100,1586395824,Southern Hemisphere
+86,Port Elizabeth,ZA,-33.92,25.57,62.6,82,10.29,98,1586395805,Southern Hemisphere
+87,Ulladulla,AU,-35.35,150.47,66.99,93,8.05,75,1586395826,Southern Hemisphere
+88,Ponnāni,IN,10.77,75.93,84.09,74,3.2,29,1586395827,Northern Hemisphere
+89,Tura,IN,25.52,90.22,84.58,39,6.15,22,1586395828,Northern Hemisphere
+90,Gorom-Gorom,BF,14.44,-0.24,81.03,14,2.08,99,1586395829,Northern Hemisphere
+91,Loandjili,CG,-4.76,11.86,78.8,87,3.71,100,1586395830,Southern Hemisphere
+92,Kavieng,PG,-2.57,150.8,84.54,72,6.76,27,1586395831,Southern Hemisphere
+93,Maridi,SS,4.92,29.47,67.95,78,4.32,99,1586395832,Northern Hemisphere
+94,Provideniya,RU,64.38,-173.3,12.2,72,8.95,89,1586395834,Northern Hemisphere
+95,Serowe,BW,-22.38,26.72,62.6,57,17.49,100,1586395835,Southern Hemisphere
+96,Vorobyevka,RU,50.65,40.92,42.21,90,7.29,9,1586395836,Northern Hemisphere
+97,Hithadhoo,MV,-0.6,73.08,84.69,69,10.78,51,1586395837,Southern Hemisphere
+98,Saskylakh,RU,71.92,114.08,32.11,97,13.78,100,1586395838,Northern Hemisphere
+99,Arrondissement de Perpignan,FR,42.75,2.75,52.0,87,3.36,26,1586395679,Northern Hemisphere
+100,Narsaq,GL,60.92,-46.05,41.0,27,11.41,100,1586395840,Northern Hemisphere
+101,Mehrān,IR,33.12,46.16,60.8,72,4.7,90,1586395841,Northern Hemisphere
+102,Kununurra,AU,-15.77,128.73,89.6,24,11.41,14,1586395843,Southern Hemisphere
+103,Cairns,AU,-16.92,145.77,84.2,62,19.46,75,1586395844,Southern Hemisphere
+104,Pemba,MZ,-12.97,40.52,77.0,83,5.82,20,1586395771,Southern Hemisphere
+105,Hamilton,US,39.18,-84.53,72.0,63,12.21,1,1586395810,Northern Hemisphere
+106,Yulara,AU,-25.24,130.99,77.0,31,16.11,5,1586395847,Southern Hemisphere
+107,Nueva Loja,EC,0.08,-76.88,71.02,85,1.43,98,1586395849,Northern Hemisphere
+108,Port Augusta,AU,-32.5,137.77,69.01,52,3.36,0,1586395850,Southern Hemisphere
+109,Deputatsky,RU,69.3,139.9,12.65,89,3.85,50,1586395851,Northern Hemisphere
+110,Rocha,UY,-34.48,-54.33,55.33,88,7.07,40,1586395852,Southern Hemisphere
+111,Steinbach am Taunus,DE,50.17,8.57,60.01,75,3.36,16,1586395853,Northern Hemisphere
+112,Ruteng,ID,-8.61,120.47,74.89,59,2.37,67,1586395854,Southern Hemisphere
+113,Qaanaaq,GL,77.48,-69.36,9.34,83,8.75,98,1586395855,Northern Hemisphere
+114,Tasiilaq,GL,65.61,-37.64,26.6,68,4.7,2,1586395856,Northern Hemisphere
+115,Jacareacanga,BR,-6.22,-57.75,75.36,94,1.54,87,1586395857,Southern Hemisphere
+116,Chokurdakh,RU,70.63,147.92,-1.43,92,7.74,46,1586395858,Northern Hemisphere
+117,Teya,RU,60.38,92.63,34.84,76,11.65,99,1586395859,Northern Hemisphere
+118,Mayskiy,RU,47.69,40.1,37.4,55,2.24,0,1586395860,Northern Hemisphere
+119,Bredasdorp,ZA,-34.53,20.04,59.0,87,2.24,2,1586395861,Southern Hemisphere
+120,Hermanus,ZA,-34.42,19.23,59.0,75,5.01,0,1586395863,Southern Hemisphere
+121,Coolum Beach,AU,-26.53,153.1,77.0,79,1.01,60,1586395864,Southern Hemisphere
+122,Terra Santa,BR,-2.1,-56.49,76.53,93,3.49,100,1586395865,Southern Hemisphere
+123,Bethel,US,41.37,-73.41,51.01,81,2.01,1,1586395866,Northern Hemisphere
+124,Mar del Plata,AR,-38.0,-57.56,53.01,93,3.36,40,1586395867,Southern Hemisphere
+125,Umluj,SA,25.02,37.27,71.65,47,10.4,0,1586395868,Northern Hemisphere
+126,Alofi,NU,-19.06,-169.92,83.17,83,25.97,98,1586395869,Southern Hemisphere
+127,Gigmoto,PH,13.78,124.39,81.55,66,5.82,27,1586395870,Northern Hemisphere
+128,Zhezkazgan,KZ,47.8,67.71,34.47,69,12.88,13,1586395871,Northern Hemisphere
+129,Barrow,US,71.29,-156.79,1.4,70,8.05,40,1586395801,Northern Hemisphere
+130,Vila Velha,BR,-20.33,-40.29,73.4,78,4.7,90,1586395873,Southern Hemisphere
+131,Ballater,GB,57.05,-3.04,45.0,86,5.82,75,1586395874,Northern Hemisphere
+132,Bonavista,CA,48.65,-53.11,27.0,80,1.99,90,1586395876,Northern Hemisphere
+133,South Sioux City,US,42.47,-96.41,50.0,37,16.11,1,1586395877,Northern Hemisphere
+134,Namatanai,PG,-3.67,152.43,85.53,69,3.44,9,1586395878,Southern Hemisphere
+135,Goderich,CA,43.75,-81.72,54.0,78,7.25,100,1586395879,Northern Hemisphere
+136,Camabatela,AO,-8.19,15.38,64.42,71,2.24,34,1586395880,Southern Hemisphere
+137,Buala,SB,-8.14,159.59,84.87,72,6.85,55,1586395881,Southern Hemisphere
+138,Arlit,NE,18.74,7.39,82.96,13,13.67,100,1586395882,Northern Hemisphere
+139,Itoigawa,JP,37.03,137.85,47.71,60,4.72,64,1586395884,Northern Hemisphere
+140,Nador,MA,35.17,-2.93,60.8,87,8.05,75,1586395888,Northern Hemisphere
+141,Richards Bay,ZA,-28.78,32.04,66.15,81,2.1,100,1586395889,Southern Hemisphere
+142,Thompson,CA,55.74,-97.86,24.8,73,9.17,75,1586395890,Northern Hemisphere
+143,São Gabriel da Cachoeira,BR,-0.13,-67.09,74.53,96,2.33,100,1586395894,Southern Hemisphere
+144,Dali,CN,25.7,100.18,68.76,18,6.64,3,1586395895,Northern Hemisphere
+145,Hofn,IS,64.25,-15.21,30.63,93,1.7,93,1586395897,Northern Hemisphere
+146,Rio Grande,BR,-32.03,-52.1,62.94,76,17.96,25,1586395743,Southern Hemisphere
+147,Belém de São Francisco,BR,-8.75,-38.97,77.32,67,11.25,45,1586395901,Southern Hemisphere
+148,Avarua,CK,-21.21,-159.78,86.0,84,18.34,75,1586395647,Southern Hemisphere
+149,College,US,64.86,-147.8,33.8,30,6.93,75,1586395906,Northern Hemisphere
+150,Beyneu,KZ,45.32,55.2,40.06,69,7.54,0,1586395907,Northern Hemisphere
+151,Ati,TD,13.22,18.34,80.74,14,10.8,33,1586395908,Northern Hemisphere
+152,Boyolangu,ID,-8.12,111.89,85.48,64,2.19,0,1586395910,Southern Hemisphere
+153,Salalah,OM,17.02,54.09,78.8,65,3.36,20,1586395911,Northern Hemisphere
+154,Vardø,NO,70.37,31.11,29.52,96,37.67,100,1586395913,Northern Hemisphere
+155,Ribeira Grande,PT,38.52,-28.7,60.06,80,5.21,17,1586395914,Northern Hemisphere
+156,Olenino,RU,56.21,33.49,35.8,82,6.78,32,1586395915,Northern Hemisphere
+157,Tiksi,RU,71.69,128.87,21.87,96,5.59,86,1586395917,Northern Hemisphere
+158,Verkhotur'ye,RU,58.86,60.81,26.78,93,7.81,35,1586395918,Northern Hemisphere
+159,Gaeta,IT,41.22,13.56,55.99,93,4.7,3,1586395920,Northern Hemisphere
+160,Constitución,CL,-35.33,-72.42,53.31,88,1.57,89,1586395922,Southern Hemisphere
+161,Campbell River,CA,50.02,-125.24,60.8,66,0.83,40,1586395861,Northern Hemisphere
+162,The Valley,AI,18.22,-63.06,80.6,78,5.82,20,1586395924,Northern Hemisphere
+163,Helena,US,46.59,-112.04,59.0,22,10.29,1,1586395655,Northern Hemisphere
+164,Arrondissement de Montauban,FR,44.08,1.5,54.0,57,5.82,0,1586395928,Northern Hemisphere
+165,Vanavara,RU,60.34,102.28,43.41,68,7.45,81,1586395929,Northern Hemisphere
+166,Arraial do Cabo,BR,-22.97,-42.03,73.35,74,16.75,62,1586395930,Southern Hemisphere
+167,Markova,UA,48.68,24.41,43.38,61,3.47,0,1586395931,Northern Hemisphere
+168,Devils Lake,US,48.11,-98.87,33.8,69,13.87,75,1586395730,Northern Hemisphere
+169,Kunya,NG,12.22,8.53,84.2,48,8.05,20,1586395933,Northern Hemisphere
+170,Saint Anthony,US,45.02,-93.22,46.4,45,16.11,75,1586395934,Northern Hemisphere
+171,General Roca,AR,-39.03,-67.58,66.2,48,2.24,0,1586395935,Southern Hemisphere
+172,Butaritari,KI,3.07,172.79,84.43,76,13.11,57,1586395936,Northern Hemisphere
+173,Ponta do Sol,PT,32.67,-17.1,68.0,82,9.95,40,1586395937,Northern Hemisphere
+174,Lanxi,CN,29.22,119.48,72.79,39,1.83,0,1586395938,Northern Hemisphere
+175,Changji,CN,44.02,87.32,53.6,46,2.24,0,1586395939,Northern Hemisphere
+176,Djibouti,DJ,11.5,42.5,80.6,78,3.36,1,1586395942,Northern Hemisphere
+177,Karratha,AU,-20.74,116.85,86.94,45,3.09,65,1586395943,Southern Hemisphere
+178,Atar,MR,20.52,-13.05,76.08,16,6.06,0,1586395944,Northern Hemisphere
+179,Geraldton,AU,-28.77,114.6,80.01,44,4.7,26,1586395945,Southern Hemisphere
+180,Daru,PG,-9.08,143.21,84.11,70,7.74,91,1586395947,Southern Hemisphere
+181,Katsuura,JP,35.13,140.3,64.99,62,6.93,20,1586395948,Northern Hemisphere
+182,Lakes Entrance,AU,-37.88,147.98,66.0,67,15.41,0,1586395949,Southern Hemisphere
+183,Vestmannaeyjar,IS,63.44,-20.27,36.84,77,3.29,100,1586395951,Northern Hemisphere
+184,Tadine,NC,-21.55,167.88,79.23,64,15.82,5,1586395952,Southern Hemisphere
+185,San Quintín,MX,30.48,-115.95,57.85,62,8.63,2,1586395953,Northern Hemisphere
+186,Altay,CN,47.87,88.12,54.43,30,1.99,0,1586395954,Northern Hemisphere
+187,Kaeo,NZ,-35.1,173.78,68.0,73,21.0,7,1586395958,Southern Hemisphere
+188,Sucre,BO,-19.03,-65.26,53.49,35,3.67,98,1586395959,Southern Hemisphere
+189,San Giovanni in Fiore,IT,39.26,16.7,45.0,100,4.7,20,1586395960,Northern Hemisphere
+190,Bhatkal,IN,13.97,74.57,81.57,60,0.89,1,1586395961,Northern Hemisphere
+191,Half Moon Bay,US,37.46,-122.43,62.6,87,6.93,90,1586395962,Northern Hemisphere
+192,Severo-Kuril'sk,RU,50.68,156.12,31.8,97,7.36,100,1586395964,Northern Hemisphere
+193,Humaitá,BR,-7.51,-63.02,75.36,95,2.84,100,1586395966,Southern Hemisphere
+194,Midland,US,32.0,-102.08,81.0,21,6.93,1,1586395967,Northern Hemisphere
+195,Novikovo,RU,51.15,37.89,40.66,86,6.69,0,1586395968,Northern Hemisphere
+196,Qui Nhon,VN,13.77,109.23,83.89,67,10.0,75,1586395969,Northern Hemisphere
+197,Margate,GB,51.38,1.39,52.0,93,2.24,0,1586395808,Northern Hemisphere
+198,Hlobyne,UA,49.39,33.26,42.87,83,6.04,0,1586395972,Northern Hemisphere
+199,Dawei,MM,14.08,98.2,87.21,46,0.96,98,1586395975,Northern Hemisphere
+200,Katobu,ID,-4.94,122.53,86.74,67,2.42,23,1586395976,Southern Hemisphere
+201,Sola,VU,-13.88,167.55,87.8,74,2.62,40,1586395977,Southern Hemisphere
+202,Chaumont,FR,48.12,5.13,48.2,76,2.24,0,1586395979,Northern Hemisphere
+203,Bahir Dar,ET,11.59,37.39,71.89,29,4.21,56,1586395980,Northern Hemisphere
+204,Gonbad-e Kāvūs,IR,37.25,55.17,33.8,64,2.24,57,1586395981,Northern Hemisphere
+205,Kapit,MY,2.02,112.93,88.39,64,0.98,74,1586395983,Northern Hemisphere
+206,Chulym,RU,55.1,80.96,31.98,86,12.08,100,1586395984,Northern Hemisphere
+207,Muros,ES,42.78,-9.06,61.0,93,4.16,100,1586395986,Northern Hemisphere
+208,Coquimbo,CL,-29.95,-71.34,62.6,77,1.12,90,1586395987,Southern Hemisphere
+209,Lorengau,PG,-2.02,147.27,84.06,76,7.52,10,1586395989,Southern Hemisphere
+210,Zyryanka,RU,65.75,150.85,13.73,89,7.54,56,1586395991,Northern Hemisphere
+211,Waipawa,NZ,-41.41,175.52,60.01,62,21.92,17,1586395992,Southern Hemisphere
+212,Palana,RU,59.12,159.97,20.68,89,6.04,85,1586395993,Northern Hemisphere
+213,Ambilobe,MG,-13.2,49.05,70.29,82,3.89,7,1586395995,Southern Hemisphere
+214,Mizdah,LY,31.45,12.98,48.56,58,3.67,0,1586395996,Northern Hemisphere
+215,Mahébourg,MU,-20.41,57.7,77.0,88,5.82,40,1586395997,Southern Hemisphere
+216,Baft,IR,29.23,56.61,55.33,29,2.8,31,1586395998,Northern Hemisphere
+217,Nikolskoye,RU,59.7,30.79,42.8,68,11.18,100,1586395999,Northern Hemisphere
+218,Touros,BR,-5.2,-35.46,78.8,94,3.36,20,1586396007,Southern Hemisphere
+219,Khatanga,RU,71.97,102.5,35.65,98,12.59,100,1586396008,Northern Hemisphere
+220,Bambous Virieux,MU,-20.34,57.76,77.0,88,5.82,40,1586396009,Southern Hemisphere
+221,Rincon,US,32.3,-81.24,78.8,74,10.29,90,1586396011,Northern Hemisphere
+222,New Norfolk,AU,-42.78,147.06,63.0,62,9.17,0,1586396012,Southern Hemisphere
+223,Canary Islands,ES,28.0,-15.5,68.0,77,21.92,20,1586396013,Northern Hemisphere
+224,Port Blair,IN,11.67,92.75,81.61,76,3.78,100,1586396014,Northern Hemisphere
+225,La Paz,BO,-16.5,-68.15,44.6,87,10.29,20,1586396015,Southern Hemisphere
+226,Raton,US,36.9,-104.44,68.0,12,9.17,1,1586396016,Northern Hemisphere
+227,Salinópolis,BR,-0.61,-47.36,78.51,87,9.69,100,1586396017,Southern Hemisphere
+228,Svetlaya,RU,46.54,138.33,34.0,87,12.5,99,1586396018,Northern Hemisphere
+229,Puerto Quijarro,BO,-17.78,-57.77,70.75,56,4.09,51,1586396020,Southern Hemisphere
+230,Longyearbyen,SJ,78.22,15.64,-9.4,76,6.64,20,1586396024,Northern Hemisphere
+231,Bilma,NE,18.69,12.92,75.96,16,18.86,100,1586396025,Northern Hemisphere
+232,Mashhad,IR,36.3,59.61,30.2,100,9.17,75,1586396026,Northern Hemisphere
+233,Yarmouth,US,41.71,-70.23,45.0,86,7.45,1,1586396027,Northern Hemisphere
+234,Gouré,NE,13.98,10.27,87.01,14,5.99,23,1586396028,Northern Hemisphere
+235,San Patricio,MX,19.22,-104.7,78.8,78,5.39,20,1586396029,Northern Hemisphere
+236,Port Macquarie,AU,-31.43,152.92,72.0,77,2.24,100,1586396031,Southern Hemisphere
+237,Maniitsoq,GL,65.42,-52.9,26.78,80,5.39,65,1586396033,Northern Hemisphere
+238,Lüderitz,NA,-26.65,15.16,55.4,87,8.05,29,1586396034,Southern Hemisphere
+239,Madera,US,37.17,-119.83,63.0,67,9.17,90,1586396035,Northern Hemisphere
+240,Gweta,BW,-20.18,25.23,69.69,52,16.02,2,1586396036,Southern Hemisphere
+241,Barberton,ZA,-25.79,31.05,63.0,100,2.24,91,1586396037,Southern Hemisphere
+242,Trat,TH,12.5,102.5,84.0,84,3.94,95,1586396038,Northern Hemisphere
+243,Igunga,TZ,-4.28,33.88,64.13,67,4.12,68,1586396040,Southern Hemisphere
+244,Saldanha,ZA,-33.01,17.94,59.0,47,5.82,0,1586396041,Southern Hemisphere
+245,São Filipe,CV,14.9,-24.5,77.2,62,9.33,0,1586396042,Northern Hemisphere
+246,Tādepallegūdem,IN,16.83,81.5,87.57,65,6.15,38,1586396045,Northern Hemisphere
+247,Keskin,TR,39.67,33.61,39.99,59,5.64,24,1586396046,Northern Hemisphere
+248,Tromsø,NO,69.65,18.96,32.0,94,17.22,75,1586396048,Northern Hemisphere
+249,Chingirlau,KZ,51.09,54.08,41.97,70,14.81,100,1586396049,Northern Hemisphere
+250,Vila do Maio,CV,15.13,-23.22,77.0,50,12.75,0,1586396050,Northern Hemisphere
+251,Road Town,VG,18.42,-64.62,80.6,78,8.05,1,1586396051,Northern Hemisphere
+252,Tiarei,PF,-17.53,-149.33,89.6,59,11.41,87,1586396052,Southern Hemisphere
+253,Kieta,PG,-6.22,155.63,84.34,74,5.26,79,1586396054,Southern Hemisphere
+254,Ukiah,US,39.15,-123.21,72.0,52,12.75,1,1586396055,Northern Hemisphere
+255,Puławy,PL,51.42,21.97,48.99,74,1.12,0,1586396056,Northern Hemisphere
+256,Castro,BR,-24.79,-50.01,57.78,48,2.93,0,1586395785,Southern Hemisphere
+257,Kandi,BJ,11.13,2.94,88.5,39,4.56,47,1586395774,Northern Hemisphere
+258,Saint Petersburg,RU,59.89,30.26,42.8,70,11.18,100,1586396063,Northern Hemisphere
+259,Kruisfontein,ZA,-34.0,24.73,57.63,71,15.55,100,1586396064,Southern Hemisphere
+260,Tubualá,PA,9.52,-79.03,82.4,78,8.05,75,1586396065,Northern Hemisphere
+261,Ndélé,CF,8.41,20.65,74.55,65,6.87,100,1586396066,Northern Hemisphere
+262,Kilrush,IE,52.64,-9.48,46.4,87,1.12,40,1586396067,Northern Hemisphere
+263,Arrondissement de Saint-Denis,FR,48.92,2.33,57.99,71,2.24,0,1586396068,Northern Hemisphere
+264,San Jerónimo,PE,-11.95,-75.28,49.84,30,1.61,100,1586396069,Southern Hemisphere
+265,Hazorasp,UZ,41.32,61.07,30.2,68,2.24,0,1586396070,Northern Hemisphere
+266,San Ignacio,BZ,17.16,-89.07,79.0,82,7.0,8,1586396072,Northern Hemisphere
+267,Mackay,AU,-21.15,149.2,82.4,65,13.87,40,1586395820,Southern Hemisphere
+268,Beringovskiy,RU,63.05,179.32,19.94,89,1.81,61,1586396077,Northern Hemisphere
+269,Jiuquan,CN,39.74,98.52,60.91,14,3.22,0,1586396079,Northern Hemisphere
+270,Minudasht,IR,37.23,55.37,33.8,64,2.24,69,1586396080,Northern Hemisphere
+271,Belaya Gora,RU,68.53,146.42,10.94,91,6.17,29,1586396081,Northern Hemisphere
+272,Roald,NO,62.58,6.13,36.0,75,10.29,100,1586396082,Northern Hemisphere
+273,Riberalta,BO,-10.98,-66.1,73.26,86,2.86,31,1586396084,Southern Hemisphere
+274,Fortuna,US,40.6,-124.16,70.0,76,13.87,20,1586396086,Northern Hemisphere
+275,Vila,PT,42.03,-8.16,61.0,87,3.36,40,1586396087,Northern Hemisphere
+276,La Romana,DO,18.43,-68.97,78.8,94,4.7,75,1586396088,Northern Hemisphere
+277,Okoneshnikovo,RU,54.84,75.08,32.45,78,17.85,0,1586396089,Northern Hemisphere
+278,Souillac,MU,-20.52,57.52,77.0,88,5.82,40,1586396097,Southern Hemisphere
+279,Codrington,AU,-38.27,141.97,65.79,60,4.23,0,1586396098,Southern Hemisphere
+280,Huittinen,FI,61.18,22.7,41.0,80,6.93,90,1586396099,Northern Hemisphere
+281,Mount Gambier,AU,-37.83,140.77,64.4,68,3.36,0,1586396100,Southern Hemisphere
+282,Chicama,PE,-7.84,-79.15,75.09,70,8.32,91,1586396101,Southern Hemisphere
+283,Norsup,VU,-16.07,167.38,80.83,81,16.89,25,1586396103,Southern Hemisphere
+284,Cidreira,BR,-30.18,-50.21,63.59,77,14.29,62,1586396104,Southern Hemisphere
+285,Kenai,US,60.55,-151.26,37.4,55,11.41,1,1586396105,Northern Hemisphere
+286,Krasnosel'kup,RU,65.7,82.47,25.74,96,25.14,100,1586396108,Northern Hemisphere
+287,São José da Coroa Grande,BR,-8.9,-35.15,79.99,73,3.78,87,1586396109,Southern Hemisphere
+288,Kungälv,SE,57.87,11.98,46.0,87,8.05,90,1586396110,Northern Hemisphere
+289,Taoudenni,ML,22.68,-3.98,78.48,16,14.94,0,1586396111,Northern Hemisphere
+290,Avilés,ES,43.55,-5.92,55.0,93,4.7,90,1586396112,Northern Hemisphere
+291,Shenjiamen,CN,29.96,122.3,56.59,79,8.55,32,1586396113,Northern Hemisphere
+292,Batagay-Alyta,RU,67.8,130.41,28.26,82,5.59,100,1586396114,Northern Hemisphere
+293,Khor,RU,47.89,134.95,46.09,46,10.02,98,1586396115,Northern Hemisphere
+294,Kamuli,UG,0.95,33.12,64.74,71,1.63,3,1586396116,Northern Hemisphere
+295,Tigil',RU,57.8,158.67,26.01,91,5.64,89,1586396117,Northern Hemisphere
+296,Makakilo City,US,21.35,-158.09,78.8,94,9.17,90,1586396118,Northern Hemisphere
+297,Mayahi,NE,13.96,7.67,81.43,14,9.44,27,1586396120,Northern Hemisphere
+298,Sakakah,SA,29.97,40.21,64.4,23,9.17,0,1586396121,Northern Hemisphere
+299,Bagdarin,RU,54.43,113.6,46.27,37,1.83,0,1586396122,Northern Hemisphere
+300,Nouadhibou,MR,20.93,-17.03,66.2,82,19.46,0,1586396123,Northern Hemisphere
+301,Esim,GH,4.87,-2.24,80.55,84,5.46,30,1586396124,Northern Hemisphere
+302,Yangi Marg`ilon,UZ,40.43,71.72,42.8,41,27.51,75,1586396125,Northern Hemisphere
+303,Moussoro,TD,13.64,16.49,82.74,13,15.68,87,1586396127,Northern Hemisphere
+304,Chui,UY,-33.7,-53.46,58.5,83,10.96,42,1586396128,Southern Hemisphere
+305,Mendi,PG,-6.18,143.65,64.85,51,2.84,68,1586396129,Southern Hemisphere
+306,Mareeba,AU,-17.0,145.43,87.01,62,19.46,75,1586396130,Southern Hemisphere
+307,Lishu,CN,43.3,124.33,49.14,44,10.94,58,1586396131,Northern Hemisphere
+308,El Rosario,MX,24.26,-107.18,78.8,54,3.36,90,1586396133,Northern Hemisphere
+309,Leh,IN,34.17,77.58,21.38,25,2.82,0,1586396134,Northern Hemisphere
+310,Eganville,CA,45.53,-77.1,39.2,80,3.36,90,1586396135,Northern Hemisphere
+311,Caravelas,BR,-17.71,-39.25,77.76,87,15.5,98,1586396136,Southern Hemisphere
+312,Kiryat Gat,IL,31.61,34.76,55.4,76,3.36,0,1586396137,Northern Hemisphere
+313,Nola,IT,40.92,14.53,55.99,71,4.7,0,1586396080,Northern Hemisphere
+314,Iskateley,RU,67.68,53.15,30.16,98,12.37,100,1586396139,Northern Hemisphere
+315,Zeya,RU,53.75,127.27,43.47,54,4.5,0,1586396140,Northern Hemisphere
+316,Poum,NC,-20.23,164.02,78.31,80,18.16,1,1586396141,Southern Hemisphere
+317,Mehamn,NO,71.04,27.85,24.22,94,27.54,100,1586396142,Northern Hemisphere
+318,Iqaluit,CA,63.75,-68.51,5.0,84,1.48,5,1586396141,Northern Hemisphere
+319,Chul'man,RU,56.85,124.91,31.91,70,1.86,0,1586396145,Northern Hemisphere
+320,Kristinestad,FI,62.27,21.38,36.52,82,15.32,37,1586396146,Northern Hemisphere
+321,Baghdad,IQ,33.34,44.4,69.8,56,6.93,100,1586396147,Northern Hemisphere
+322,Berwick,US,41.05,-76.23,55.99,53,1.43,1,1586396148,Northern Hemisphere
+323,Yibin,CN,28.77,104.62,69.75,53,2.39,88,1586396149,Northern Hemisphere
+324,Porto Belo,BR,-27.16,-48.55,66.2,82,3.36,0,1586396150,Southern Hemisphere
+325,Pochutla,MX,15.74,-96.47,82.18,65,8.14,0,1586396151,Northern Hemisphere
+326,Guerrero Negro,MX,27.98,-114.06,60.51,66,14.63,100,1586396152,Northern Hemisphere
+327,Vao,NC,-22.67,167.48,75.54,70,16.53,17,1586396154,Southern Hemisphere
+328,Ilfracombe,GB,51.21,-4.11,57.0,76,4.7,71,1586396155,Northern Hemisphere
+329,Pitimbu,BR,-7.47,-34.81,78.8,88,4.7,34,1586396156,Southern Hemisphere
+330,Sennoy,RU,52.15,46.96,41.77,86,6.69,9,1586396157,Northern Hemisphere
+331,Faya,SA,18.39,42.45,64.4,59,2.37,50,1586396159,Northern Hemisphere
+332,Kiunga,PG,-6.12,141.29,77.92,88,1.68,99,1586396160,Southern Hemisphere
+333,Lompoc,US,34.64,-120.46,55.4,71,5.82,90,1586396161,Northern Hemisphere
+334,Asău,RO,46.43,26.4,45.0,55,2.24,0,1586396162,Northern Hemisphere
+335,Pangnirtung,CA,66.15,-65.71,11.03,78,3.69,0,1586396163,Northern Hemisphere
+336,Antofagasta,CL,-23.65,-70.4,68.0,72,6.93,90,1586396154,Southern Hemisphere
+337,Cherskiy,RU,68.75,161.3,0.43,92,11.45,83,1586396165,Northern Hemisphere
+338,Oranjestad,AW,12.52,-70.03,82.4,78,17.22,40,1586396026,Northern Hemisphere
+339,Pargas,FI,60.31,22.3,45.0,83,9.17,100,1586396167,Northern Hemisphere
+340,Aswān,EG,24.09,32.91,66.2,24,13.87,30,1586396168,Northern Hemisphere
+341,Pyapon,MM,16.28,95.68,88.11,51,4.43,36,1586396169,Northern Hemisphere
+342,Gushikawa,JP,26.35,127.87,69.8,72,11.41,90,1586396171,Northern Hemisphere
+343,Marystown,CA,47.17,-55.15,30.74,94,15.99,92,1586396173,Northern Hemisphere
+344,Turka,UA,49.15,23.03,46.99,43,1.01,0,1586396174,Northern Hemisphere
+345,Fort-Shevchenko,KZ,44.51,50.26,43.05,64,23.38,0,1586396175,Northern Hemisphere
+346,Broome,US,42.25,-75.83,48.0,70,3.36,1,1586396176,Northern Hemisphere
+347,Buta,CD,2.79,24.73,71.04,86,0.89,100,1586396177,Northern Hemisphere
+348,Songea,TZ,-10.68,35.65,68.0,100,4.7,75,1586396178,Southern Hemisphere
+349,Kupang,ID,-10.17,123.58,87.8,66,4.7,20,1586396179,Southern Hemisphere
+350,Grindavik,IS,63.84,-22.43,30.2,92,8.05,40,1586396180,Northern Hemisphere
+351,Nanortalik,GL,60.14,-45.24,31.51,90,10.47,100,1586396181,Northern Hemisphere
+352,Tagusao,PH,9.19,117.81,85.08,59,5.37,1,1586396182,Northern Hemisphere
+353,Lyubashivka,UA,47.84,30.26,44.29,80,6.15,0,1586396184,Northern Hemisphere
+354,Kahului,US,20.89,-156.47,84.2,48,10.29,20,1586396185,Northern Hemisphere
+355,Philadelphia,US,39.95,-75.16,63.0,81,9.17,20,1586395964,Northern Hemisphere
+356,Bathsheba,BB,13.22,-59.52,78.8,74,16.11,75,1586396152,Northern Hemisphere
+357,Kyshtovka,RU,56.55,76.63,30.47,86,20.2,62,1586396195,Northern Hemisphere
+358,Evensk,RU,61.95,159.23,23.65,88,1.57,42,1586396196,Northern Hemisphere
+359,Nizhniy Ingash,RU,56.2,96.53,37.4,80,6.82,100,1586396198,Northern Hemisphere
+360,Galich,RU,58.38,42.35,32.83,91,5.08,4,1586396199,Northern Hemisphere
+361,Hyères,FR,43.12,6.12,52.0,75,1.12,0,1586396200,Northern Hemisphere
+362,Arica,CL,-18.48,-70.3,71.6,73,3.36,40,1586396201,Southern Hemisphere
+363,Praia,CV,14.92,-23.51,77.0,50,12.75,0,1586396202,Northern Hemisphere
+364,Rypefjord,NO,70.63,23.67,28.4,74,19.46,100,1586396210,Northern Hemisphere
+365,Laguna,US,38.42,-121.42,66.0,67,3.36,1,1586396211,Northern Hemisphere
+366,Havelock,US,34.88,-76.9,73.4,73,8.05,75,1586395998,Northern Hemisphere
+367,Sisimiut,GL,66.94,-53.67,19.76,81,7.65,0,1586396213,Northern Hemisphere
+368,Cockburn Town,TC,21.46,-71.14,77.05,72,10.76,67,1586396149,Northern Hemisphere
+369,Micheweni,TZ,-4.97,39.83,83.66,75,9.19,32,1586396215,Southern Hemisphere
+370,Nizhniy Odes,RU,63.64,54.86,28.6,97,10.2,97,1586396216,Northern Hemisphere
+371,Labuhan,ID,-6.88,112.21,86.59,65,4.56,67,1586396218,Southern Hemisphere
+372,Stará Turá,SK,48.78,17.69,43.0,56,5.82,0,1586396219,Northern Hemisphere
+373,Mayo,US,38.89,-76.51,66.99,67,5.06,1,1586396220,Northern Hemisphere
+374,Port Pirie,AU,-33.18,138.02,68.0,52,3.36,0,1586396221,Southern Hemisphere
+375,Nemuro,JP,43.32,145.57,30.2,86,10.29,75,1586396222,Northern Hemisphere
+376,Chibuto,MZ,-24.69,33.53,68.05,79,4.74,81,1586396223,Southern Hemisphere
+377,Ternate,ID,0.8,127.4,85.35,64,8.1,0,1586396224,Northern Hemisphere
+378,Salina,US,38.84,-97.61,64.99,36,24.16,1,1586396106,Northern Hemisphere
+379,Chapais,CA,49.78,-74.85,26.6,42,5.82,75,1586396226,Northern Hemisphere
+380,Bull Savanna,JM,17.89,-77.59,73.94,78,2.51,1,1586396229,Northern Hemisphere
+381,Hoi An,VN,15.88,108.33,80.6,69,1.12,75,1586396166,Northern Hemisphere
+382,Viedma,AR,-40.81,-63.0,56.07,63,12.37,0,1586396231,Southern Hemisphere
+383,Tashtyp,RU,52.79,89.9,40.73,69,5.3,100,1586396233,Northern Hemisphere
+384,Nizwá,OM,22.93,57.53,82.04,22,1.68,0,1586396234,Northern Hemisphere
+385,Ancud,CL,-41.87,-73.82,51.8,87,3.36,0,1586396235,Southern Hemisphere
+386,La Ronge,CA,55.1,-105.28,21.2,57,11.41,75,1586396167,Northern Hemisphere
+387,Sturgeon Falls,CA,46.36,-79.93,39.0,100,4.7,75,1586396237,Northern Hemisphere
+388,Izberbash,RU,42.57,47.86,37.0,61,4.47,20,1586396238,Northern Hemisphere
+389,Los Alamos,US,35.89,-106.31,68.0,13,11.41,1,1586396239,Northern Hemisphere
+390,Ginda,IN,30.69,78.49,61.18,16,2.1,24,1586396240,Northern Hemisphere
+391,Hailey,US,43.52,-114.32,36.99,38,7.96,37,1586396242,Northern Hemisphere
+392,Jalu,LY,29.03,21.55,58.35,54,7.9,71,1586396243,Northern Hemisphere
+393,Donghai,CN,22.95,115.64,75.94,45,4.61,14,1586396244,Northern Hemisphere
+394,Kungurtug,RU,50.6,97.52,40.73,38,3.69,2,1586396246,Northern Hemisphere
+395,Qarqīn,AF,37.42,66.04,41.14,60,15.95,42,1586396247,Northern Hemisphere
+396,Isangel,VU,-19.55,169.27,84.2,66,11.41,40,1586396170,Southern Hemisphere
+397,Tual,ID,-5.67,132.75,83.41,72,6.93,90,1586396249,Southern Hemisphere
+398,Kysyl-Syr,RU,63.9,122.76,33.75,94,7.25,96,1586396250,Northern Hemisphere
+399,Batemans Bay,AU,-35.72,150.18,69.01,79,5.84,62,1586396177,Southern Hemisphere
+400,Teófilo Otoni,BR,-17.86,-41.51,70.83,84,4.88,100,1586396252,Southern Hemisphere
+401,Soyo,AO,-6.13,12.37,78.6,87,5.55,51,1586396257,Southern Hemisphere
+402,Nantucket,US,41.28,-70.1,42.8,93,7.56,1,1586396258,Northern Hemisphere
+403,Laranjeiras do Sul,BR,-25.41,-52.42,47.5,62,3.0,29,1586396259,Southern Hemisphere
+404,São João da Barra,BR,-21.64,-41.05,70.32,89,8.68,99,1586396260,Southern Hemisphere
+405,Jieshi,CN,22.81,115.83,73.51,49,8.97,20,1586396261,Northern Hemisphere
+406,Juba,SS,4.85,31.58,79.81,47,3.49,100,1586396262,Northern Hemisphere
+407,Kampene,CD,-3.6,26.67,69.24,79,1.66,98,1586396263,Southern Hemisphere
+408,Boyuibe,BO,-20.42,-63.28,58.12,47,4.85,13,1586396265,Southern Hemisphere
+409,Siavonga,ZM,-16.54,28.71,73.29,64,4.63,99,1586396267,Southern Hemisphere
+410,Klaksvík,FO,62.23,-6.59,35.6,69,5.82,89,1586396147,Northern Hemisphere
+411,Kuznechnoye,RU,61.12,29.87,41.0,75,11.45,100,1586396269,Northern Hemisphere
+412,Ballinasloe,IE,53.33,-8.22,44.83,92,4.14,100,1586396270,Northern Hemisphere
+413,Aljezur,PT,37.32,-8.8,62.01,81,3.42,98,1586396271,Northern Hemisphere
+414,Quesnel,CA,53.0,-122.5,51.8,25,6.93,90,1586396272,Northern Hemisphere
+415,Mayumba,GA,-3.43,10.66,79.38,87,3.98,92,1586396273,Southern Hemisphere
+416,Lodwar,KE,3.12,35.6,82.99,43,9.89,24,1586396275,Northern Hemisphere
+417,Neuquén,AR,-38.95,-68.06,66.2,48,2.24,0,1586396276,Southern Hemisphere
+418,Semibratovo,RU,57.3,39.54,26.6,92,2.24,0,1586396277,Northern Hemisphere
+419,São Raimundo Nonato,BR,-9.02,-42.7,75.83,71,2.51,69,1586396278,Southern Hemisphere
+420,Madaba Governorate,JO,31.58,35.67,50.0,71,3.11,2,1586396279,Northern Hemisphere
+421,Marrakesh,MA,31.63,-8.01,64.4,59,4.7,40,1586396214,Northern Hemisphere
+422,Boddam,GB,57.47,-1.78,45.0,80,5.82,75,1586396281,Northern Hemisphere
+423,Meulaboh,ID,4.14,96.13,84.65,69,2.89,100,1586396282,Northern Hemisphere
+424,Caniço,PT,32.63,-16.85,68.0,82,2.24,75,1586396283,Northern Hemisphere
+425,Skjervøy,NO,70.03,20.97,29.95,93,24.38,100,1586396284,Northern Hemisphere
+426,Mogadishu,SO,2.04,45.34,82.18,78,9.1,29,1586396208,Northern Hemisphere
+427,San Cristobal,VE,7.77,-72.22,71.01,61,2.01,66,1586396287,Northern Hemisphere
+428,Avera,US,33.19,-82.53,77.0,88,5.82,1,1586396288,Northern Hemisphere
+429,Grand Gaube,MU,-20.01,57.66,77.0,88,5.82,40,1586396289,Southern Hemisphere
+430,Jining,CN,35.41,116.58,57.7,62,8.03,100,1586396291,Northern Hemisphere
+431,Uvalde,US,29.37,-99.77,84.99,61,3.36,1,1586396263,Northern Hemisphere
+432,Nishihara,JP,26.18,127.76,69.8,64,11.41,75,1586396293,Northern Hemisphere
+433,Kastamonu Province,TR,41.5,33.67,31.91,63,1.72,0,1586396294,Northern Hemisphere
+434,Hervey Bay,AU,-25.3,152.85,78.8,57,13.87,40,1586396295,Southern Hemisphere
+435,Preobrazheniye,RU,42.9,133.91,38.66,73,4.03,63,1586396296,Northern Hemisphere
+436,Tautira,PF,-17.73,-149.15,89.6,59,11.41,85,1586396297,Southern Hemisphere
+437,Pacho,CO,5.13,-74.16,59.0,77,3.36,40,1586396299,Northern Hemisphere
+438,Kashgar,CN,39.45,75.98,57.2,14,11.18,20,1586396300,Northern Hemisphere
+439,Port Hawkesbury,CA,45.62,-61.35,30.0,68,3.36,1,1586396301,Northern Hemisphere
+440,Gimli,CA,50.63,-96.99,30.99,91,7.0,98,1586396303,Northern Hemisphere
+441,Birmitrapur,IN,22.4,84.77,88.95,26,2.55,0,1586396304,Northern Hemisphere
+442,Bafoulabé,ML,13.81,-10.83,81.57,14,3.62,0,1586396305,Northern Hemisphere
+443,Beloha,MG,-25.17,45.05,71.38,81,12.17,63,1586396306,Southern Hemisphere
+444,Shimanovsk,RU,52.0,127.7,43.25,51,9.53,0,1586396307,Northern Hemisphere
+445,Sinnamary,GF,5.38,-52.95,79.59,79,12.3,100,1586396308,Northern Hemisphere
+446,Kralendijk,BQ,12.15,-68.27,82.4,74,18.34,99,1586396309,Northern Hemisphere
+447,Chalatenango,SV,14.03,-88.93,82.4,78,2.24,2,1586396310,Northern Hemisphere
+448,Marsá Maţrūḩ,EG,31.35,27.25,53.6,76,13.09,0,1586396311,Northern Hemisphere
+449,Arrondissement de Muret,FR,43.33,1.25,52.0,57,5.82,0,1586396312,Northern Hemisphere
+450,Port Hedland,AU,-20.32,118.57,87.8,55,8.05,75,1586396313,Southern Hemisphere
+451,Ixtapa,MX,20.7,-105.2,78.8,78,4.7,5,1586396314,Northern Hemisphere
+452,Sanming,CN,26.25,117.62,78.75,44,1.07,0,1586396315,Northern Hemisphere
+453,Dourbali,TD,11.81,15.86,81.27,14,6.51,95,1586396316,Northern Hemisphere
+454,Houma,US,29.6,-90.72,79.0,88,4.7,90,1586396317,Northern Hemisphere
+455,Córdoba,AR,-31.41,-64.18,61.0,66,6.93,17,1586396319,Southern Hemisphere
+456,Port Keats,AU,-14.25,129.55,87.64,54,9.84,100,1586396320,Southern Hemisphere
+457,Lodja,CD,-3.48,23.43,68.05,76,0.56,94,1586396321,Southern Hemisphere
+458,Dombås,NO,62.07,9.12,20.77,86,8.88,48,1586396322,Northern Hemisphere
+459,Gunnedah,AU,-30.98,150.25,71.6,60,11.41,100,1586396102,Southern Hemisphere
+460,Merauke,ID,-8.47,140.33,83.75,74,8.03,99,1586396325,Southern Hemisphere
+461,Brae,GB,60.4,-1.35,41.0,80,3.36,62,1586396326,Northern Hemisphere
+462,Itarema,BR,-2.92,-39.92,78.24,89,5.79,100,1586396328,Southern Hemisphere
+463,Corinth,GR,37.94,22.96,55.4,37,6.93,92,1586396120,Northern Hemisphere
+464,Opuwo,NA,-18.06,13.84,65.55,28,3.87,10,1586396330,Southern Hemisphere
+465,Bandarbeyla,SO,9.49,50.81,79.74,64,3.83,7,1586396174,Northern Hemisphere
+466,Hasaki,JP,35.73,140.83,64.99,58,5.82,20,1586396166,Northern Hemisphere
+467,Polyarny,RU,69.2,33.45,33.8,59,6.71,40,1586396333,Northern Hemisphere
+468,Allanridge,ZA,-27.75,26.64,55.0,93,8.95,83,1586396335,Southern Hemisphere
+469,Clifton,US,40.86,-74.16,55.0,81,12.75,1,1586396077,Northern Hemisphere
+470,Harper,LR,4.38,-7.72,81.05,82,3.62,71,1586396337,Northern Hemisphere
+471,Calvià,ES,39.57,2.51,55.99,71,5.82,15,1586396338,Northern Hemisphere
+472,Antalaha,MG,-14.9,50.28,76.73,82,11.03,10,1586396339,Southern Hemisphere
+473,Bulgan,MN,48.81,103.53,45.91,31,3.58,0,1586396340,Northern Hemisphere
+474,Gejiu,CN,23.31,103.16,60.39,44,5.06,97,1586396341,Northern Hemisphere
+475,Mbandaka,CD,0.05,18.26,70.0,87,2.08,100,1586396342,Northern Hemisphere
+476,Santa Isabel Rio Negro,BR,-0.41,-65.02,73.13,97,0.94,100,1586396343,Southern Hemisphere
+477,Huangnihe,CN,43.56,128.02,42.17,49,6.71,58,1586396344,Northern Hemisphere
+478,Pangkalanbuun,ID,-2.68,111.62,85.01,67,3.53,94,1586396345,Southern Hemisphere
+479,Skara,SE,58.39,13.44,46.4,81,5.82,47,1586396346,Northern Hemisphere
+480,Pisco,PE,-13.7,-76.22,72.0,88,5.82,40,1586396347,Southern Hemisphere
+481,Kaputa,ZM,-8.47,29.66,66.52,67,1.25,94,1586396348,Southern Hemisphere
+482,Lagunas,PE,-5.23,-75.68,71.24,95,1.77,99,1586396350,Southern Hemisphere
+483,Port Hardy,CA,50.7,-127.42,50.0,66,11.41,40,1586396351,Northern Hemisphere
+484,Pechenga,RU,69.53,31.17,32.0,97,19.46,90,1586396352,Northern Hemisphere
+485,Pevek,RU,69.7,170.31,4.26,93,11.12,100,1586396353,Northern Hemisphere
+486,Palmer,US,42.16,-72.33,48.99,66,2.1,20,1586396354,Northern Hemisphere
+487,Maumere,ID,-8.62,122.21,85.28,64,3.22,100,1586396357,Southern Hemisphere
+488,Disraeli,CA,45.9,-71.35,41.0,38,4.7,75,1586396358,Northern Hemisphere
+489,Rosetta,EG,31.4,30.42,59.0,77,6.93,40,1586396359,Northern Hemisphere
+490,Flinders,AU,-34.58,150.86,73.99,93,8.05,75,1586396213,Southern Hemisphere
+491,Comodoro Rivadavia,AR,-45.87,-67.5,64.4,52,1.12,0,1586396231,Southern Hemisphere
+492,Takoradze,GH,4.88,-1.76,80.6,86,5.86,13,1586396223,Northern Hemisphere
+493,Berlevåg,NO,70.86,29.09,26.49,94,30.85,100,1586396365,Northern Hemisphere
+494,Kilindoni,TZ,-7.91,39.67,83.3,76,12.68,77,1586396366,Southern Hemisphere
+495,Boa Vista,BR,2.82,-60.67,82.4,78,8.05,75,1586396367,Northern Hemisphere
+496,Slave Lake,CA,55.28,-114.77,39.2,29,8.05,1,1586396368,Northern Hemisphere
+497,Nhulunbuy,AU,-12.23,136.77,78.8,83,13.87,75,1586396369,Southern Hemisphere
+498,Olafsvik,IS,64.89,-23.71,34.43,85,9.86,81,1586396371,Northern Hemisphere
+499,Clyde River,CA,70.47,-68.59,3.2,91,3.36,1,1586396372,Northern Hemisphere
+500,Singkang,MY,2.1,102.8,82.4,78,4.7,20,1586396374,Northern Hemisphere
+501,Kargasok,RU,59.06,80.86,31.89,84,20.58,41,1586396375,Northern Hemisphere
+502,Luanda,AO,-8.84,13.23,78.8,83,9.17,20,1586396376,Southern Hemisphere
+503,Kjøpsvik,NO,68.1,16.37,37.0,95,21.92,90,1586396377,Northern Hemisphere
+504,Yar-Sale,RU,66.83,70.83,15.71,96,19.8,100,1586396124,Northern Hemisphere
+505,Lianzhou,CN,24.78,112.38,79.39,46,0.25,0,1586396379,Northern Hemisphere
+506,Banda Aceh,ID,5.56,95.32,84.78,73,9.51,99,1586396380,Northern Hemisphere
+507,Port-Gentil,GA,-0.72,8.78,80.26,85,4.25,100,1586396381,Southern Hemisphere
+508,Garoowe,SO,8.41,48.48,73.18,66,8.19,0,1586396383,Northern Hemisphere
+509,Zhangjiakou,CN,40.81,114.88,43.16,43,7.14,66,1586396163,Northern Hemisphere
+510,Berbera,SO,10.44,45.01,82.04,71,1.34,6,1586396385,Northern Hemisphere
+511,Sur,OM,22.57,59.53,82.45,45,4.14,0,1586396212,Northern Hemisphere
+512,Bac Lieu,VN,9.29,105.72,86.79,63,11.61,92,1586396194,Northern Hemisphere
+513,Pavlodar,KZ,52.3,76.95,26.6,86,6.71,79,1586396286,Northern Hemisphere
+514,Kavaratti,IN,10.57,72.64,84.02,66,9.66,0,1586396390,Northern Hemisphere
+515,Baijiantan,CN,45.63,85.18,63.14,40,10.8,16,1586396391,Northern Hemisphere
+516,Goundam,ML,16.41,-3.67,79.09,13,10.71,0,1586396392,Northern Hemisphere
+517,Nālūt,LY,30.33,10.85,54.14,46,11.88,0,1586396393,Northern Hemisphere
+518,Ust'-Ishim,RU,57.69,71.17,29.28,92,14.2,100,1586396394,Northern Hemisphere
+519,Sembakung,ID,3.82,117.25,85.44,71,0.2,39,1586396395,Northern Hemisphere
+520,Matamoros,MX,25.53,-103.25,89.6,18,12.15,75,1586396396,Northern Hemisphere
+521,Staryy Nadym,RU,65.61,72.68,17.89,96,19.01,96,1586396397,Northern Hemisphere
+522,Inhambane,MZ,-23.86,35.38,73.47,73,15.68,39,1586396398,Southern Hemisphere
+523,Shalinskoye,RU,55.72,93.76,34.84,79,5.57,100,1586396399,Northern Hemisphere
+524,George,ZA,-33.96,22.46,51.8,81,2.24,35,1586396401,Southern Hemisphere
+525,Alta Floresta,BR,-9.88,-56.09,74.57,84,1.19,100,1586396402,Southern Hemisphere
+526,Mizque,BO,-17.94,-65.34,60.37,43,3.91,100,1586396403,Southern Hemisphere
+527,Morant Bay,JM,17.88,-76.41,82.4,74,5.82,20,1586396404,Northern Hemisphere
+528,Novoagansk,RU,61.94,76.66,25.18,95,19.35,100,1586396405,Northern Hemisphere
+529,Tabou,CI,4.42,-7.35,80.51,83,3.62,55,1586396406,Northern Hemisphere
+530,Wenzhou,CN,28.0,120.67,69.01,31,5.28,0,1586396408,Northern Hemisphere
+531,Ilulissat,GL,69.22,-51.1,8.6,60,4.7,0,1586396409,Northern Hemisphere
+532,Martapura,ID,-3.42,114.85,77.11,88,3.91,100,1586396410,Southern Hemisphere
+533,Burnie,AU,-41.07,145.92,60.66,66,7.05,27,1586396411,Southern Hemisphere
+534,Finschhafen,PG,-6.6,147.87,83.86,74,9.06,25,1586396412,Southern Hemisphere
+535,Santa Luzia,BR,-19.77,-43.85,68.0,94,4.7,40,1586396413,Southern Hemisphere
+536,Isabela,PH,6.71,121.97,86.0,70,4.7,20,1586396415,Northern Hemisphere
+537,Haines Junction,CA,60.75,-137.51,26.64,81,4.05,53,1586396416,Northern Hemisphere
+538,São Félix do Xingu,BR,-6.64,-51.99,74.17,84,0.36,100,1586396417,Southern Hemisphere
+539,Abbotsford,CA,49.06,-122.25,60.8,41,9.17,20,1586396299,Northern Hemisphere
+540,Payson,US,40.04,-111.73,66.0,45,14.99,1,1586396314,Northern Hemisphere
+541,Broken Hill,AU,-31.95,141.43,64.4,52,5.82,0,1586396420,Southern Hemisphere
+542,Esperance,AU,-33.87,121.9,77.0,36,21.92,0,1586396421,Southern Hemisphere
+543,Jérémie,HT,18.65,-74.12,76.3,79,6.44,5,1586396422,Northern Hemisphere
+544,Abhā,SA,18.22,42.51,60.8,59,1.3,29,1586396423,Northern Hemisphere
+545,Zaraza,VE,9.35,-65.32,79.38,68,7.45,84,1586396424,Northern Hemisphere
+546,Okhotsk,RU,59.38,143.3,35.44,87,17.31,0,1586396425,Northern Hemisphere
+547,Roebourne,AU,-20.78,117.13,87.82,44,3.29,57,1586396426,Southern Hemisphere
+548,Vizinga,RU,61.07,50.1,30.18,98,7.49,71,1586396428,Northern Hemisphere
+549,Rawson,AR,-43.3,-65.1,64.02,46,25.93,0,1586396429,Southern Hemisphere
+550,Saint-François,FR,46.42,3.91,50.0,80,3.36,0,1586396430,Northern Hemisphere
+551,Verkhnyaya Inta,RU,65.98,60.31,21.49,96,20.58,98,1586396431,Northern Hemisphere
+552,Gazojak,TM,41.19,61.4,39.52,64,2.01,0,1586396432,Northern Hemisphere
+553,Kudahuvadhoo,MV,2.67,72.89,84.27,64,5.19,24,1586396434,Northern Hemisphere
+554,St. Marys,US,30.73,-81.55,84.2,88,8.05,40,1586396436,Northern Hemisphere
